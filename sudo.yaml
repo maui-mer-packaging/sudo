@@ -7,6 +7,7 @@ License: BSD3c
 Sources:
   - '%{name}-%{version}.tar.xz'
   - sudo.pamd
+SetupOptions: -q -n src
 Description: |
   Sudo is a command that allows users to execute some commands as root.
   The /etc/sudoers file (edited with 'visudo') specifies which users have

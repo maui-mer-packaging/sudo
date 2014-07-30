@@ -29,7 +29,7 @@ minutes by default).
 
 
 %prep
-%setup -q -n %{name}-%{version}
+%setup -q -n src
 
 # >> setup
 # << setup
