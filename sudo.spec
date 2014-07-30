@@ -13,7 +13,7 @@ Version:    1.8.10p3
 Release:    1
 Group:      Applications/System
 License:    BSD3c
-Source0:    %{name}-%{version}.tar.gz
+Source0:    %{name}-%{version}.tar.xz
 Source1:    sudo.pamd
 Source100:  sudo.yaml
 BuildRequires:  pam-devel
